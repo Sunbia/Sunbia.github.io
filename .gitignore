@@ -1,0 +1,6 @@
+desktop.ini
+gulpfile.js
+*.json
+node_modules
+src
+.vscode
