@@ -4,3 +4,4 @@ gulpfile.js
 node_modules
 src
 .vscode
+.DS_STORE
